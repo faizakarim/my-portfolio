@@ -8,15 +8,6 @@ p{
   line-height: 1.5em;
 }
 .navbar-section{
-  background-color: transparent;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 100;
-  transition: background-color 0.3s ease;
-}
-.navbar-section{
   position: fixed;
   top: 0;
   left: 0;
